@@ -1,2 +1,4 @@
-# spotify-track-popularity-prediction
-Data science project analyzing Spotify track metadata to identify popularity drivers and build a predictive machine learning model.
+🎧 Predicting Spotify Track Popularity with Data Science
+
+This project explores what drives song success on Spotify using artist, album, and track metadata.
+The goal is to identify key popularity drivers and build a machine learning model that predicts track success.
